@@ -1,0 +1,10 @@
+In this project, we developed a simple Java-based console chatbot as part of the CodeAlpha internship. The chatbot uses a HashMap to store predefined question-response pairs. It interacts with the user through the terminal using Scanner, matches keywords from the user’s input, and responds accordingly.
+
+Key features implemented:
+
+1.Used Java collections (HashMap) to manage keyword-response mapping.
+2.Utilized a while loop and string matching logic to keep the chat running until the user types "bye".
+3.Included responses for frequently asked topics like internship info, tasks, and contact details.
+4.Applied basic string handling (e.g., toLowerCase(), trim()) for better input matching.
+5.This project demonstrates the use of Java fundamentals such as loops, conditionals, string manipulation, input/output, and collections to build a functional text-based chatbot.
+
